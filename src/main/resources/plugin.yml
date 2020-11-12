@@ -1,0 +1,7 @@
+name: lCore
+version: ${project.version}
+main: dev.lallemand.lcore.lCore
+api-version: 1.13
+authors: [Lallemand]
+description: Essential Core
+website: https://www.lallemand.dev
