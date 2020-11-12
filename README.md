@@ -1,0 +1,2 @@
+# lCore
+Essential server core.
