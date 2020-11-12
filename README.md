@@ -1,2 +1,2 @@
-# lCore
-Essential server core.
+# lCore Plugin
+lCore, a essential server plugin.
